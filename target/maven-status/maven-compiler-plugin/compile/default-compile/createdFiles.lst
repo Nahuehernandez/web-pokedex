@@ -1,0 +1,16 @@
+com\example\WebPokedex\ShowAll.class
+com\example\WebPokedex\EditName.class
+com\example\WebPokedex\NewPokemon.class
+file\Adapter.class
+com\example\WebPokedex\AddEvolution.class
+com\example\WebPokedex\Servlet.class
+file\EditFile.class
+pokedex\Pokemon.class
+com\example\WebPokedex\HelloApplication.class
+com\example\WebPokedex\HelloServlet.class
+com\example\WebPokedex\ShowAbility.class
+com\example\WebPokedex\ListPokemons.class
+com\example\WebPokedex\RemoveType.class
+com\example\WebPokedex\ShowPokemon.class
+com\example\WebPokedex\HelloResource.class
+com\example\WebPokedex\EditType.class
